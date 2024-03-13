@@ -1,0 +1,39 @@
+
+     
+.link{
+   color: rgb(0,113,133);
+}
+.p1{
+  
+   font-weight: bold;
+}
+.p2{
+   color:  rgb(0,136,0);
+   font-weight: bold;
+}
+
+.p3{
+ 
+ font-weight: bold;
+}
+
+.b1{
+   background-color: rgb(249,217,76);
+   border: none;
+   height: 30px;
+   width: 110px;
+   border-radius: 15px;
+   margin-right: 8px;
+   cursor: pointer;
+
+
+}
+
+.b2{
+   height: 30px;
+   width: 110px;
+   background-color: rgba(255, 164, 28);
+   border: none;
+   border-radius: 15px;
+   cursor: pointer;
+}
